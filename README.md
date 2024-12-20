@@ -123,5 +123,3 @@ sudo systemctl status nginx
 ## Example Output
 ![Output](https://github.com/user-attachments/assets/e598f76b-9838-4ab7-9bb2-dd47a4d4c1bf)
 ![access.log](https://github.com/user-attachments/assets/1ee7dbf9-883d-4186-8483-a77b4fc554f6)
-
-
